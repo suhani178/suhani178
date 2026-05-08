@@ -76,16 +76,16 @@
 
 <p align="center">
 
-  <a href="https://github.com/suhani178">
-    <img src="https://img.shields.io/badge/GitHub-Suhani178-black?style=for-the-badge&logo=github" />
+  <a href="https://github.com/suhani178" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-@suhani178-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 
-  <a href="https://www.linkedin.com/in/suhani-kumari">
-    <img src="https://img.shields.io/badge/LinkedIn-Suhani%20Kumari-blue?style=for-the-badge&logo=linkedin" />
+  <a href="https://www.linkedin.com/in/suhani-kumarii/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Suhani%20Kumari-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 
-  <a href="mailto:suhanikumari.tech@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Contact-red?style=for-the-badge&logo=gmail" />
+  <a href="mailto:tannuu17@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-tannuu17%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
 </p>
