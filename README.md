@@ -10,7 +10,7 @@
 
 - 🎓 B.Tech CSE (Data Science) Student
 - 🌱 Exploring Large Language Models (LLMs) & Generative AI
-- 💻 Passionate about AI, Python, and Problem Solving
+- 💻 Passionate about AI, Java, and Problem Solving
 - 🧠 Interested in building impactful AI-driven solutions
 - 🚀 Continuously learning and improving through projects & hackathons
 
