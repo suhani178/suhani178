@@ -37,20 +37,20 @@ I enjoy learning by building projects, exploring new technologies, and strengthe
 **Programming Languages**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=java,python,c" alt="Java, Python, C"/>
+  <img src="https://skillicons.dev/icons?i=java,python,c" alt="Java, Python and C"/>
   <img src="https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white" alt="SQL"/>
 </p>
 
 **Web Technologies**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="HTML, CSS, JavaScript"/>
+  <img src="https://skillicons.dev/icons?i=html,css,javascript" alt="HTML, CSS and JavaScript"/>
 </p>
 
 **Database & Development Tools**
 
 <p>
-  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,jupyter" alt="MySQL, Git, GitHub, VS Code, IntelliJ IDEA, Jupyter"/>
+  <img src="https://skillicons.dev/icons?i=mysql,git,github,vscode,idea,jupyter" alt="MySQL, Git, GitHub, VS Code, IntelliJ IDEA and Jupyter"/>
 </p>
 
 **AI & Other Technologies**
@@ -67,14 +67,37 @@ I enjoy learning by building projects, exploring new technologies, and strengthe
 
 A selection of projects demonstrating my learning and practical development experience.
 
-| Project | Description | Technologies |
-|---|---|---|
-| RepoReady AI | Software project-readiness auditing tool | Python, Streamlit |
-| AI Chatbot | Web-based chatbot using an external LLM API | HTML, CSS, JavaScript, OpenRouter API |
-| Weather Application | Fetches and displays weather information using an API | HTML, CSS, JavaScript |
-| SQL Journey | Structured SQL learning and query practice repository | SQL, MySQL |
+### 1. RepoReady AI
 
-> Project links and detailed documentation will be added after repository verification.
+A software project-readiness auditing tool designed to evaluate repository structure, documentation, and essential project files.
+
+**Technologies:** Python, Streamlit
+
+🔗 [View Repository](https://github.com/suhani178)
+
+### 2. AI Chatbot
+
+A web-based AI chatbot integrating an external LLM API to generate conversational responses.
+
+**Technologies:** HTML, CSS, JavaScript, OpenRouter API
+
+🔗 [View Repository](https://github.com/suhani178)
+
+### 3. Weather Application
+
+A web application that fetches and displays weather information using an external API.
+
+**Technologies:** HTML, CSS, JavaScript, Weather API
+
+🔗 [View Repository](https://github.com/suhani178)
+
+### 4. SQL Journey
+
+A structured SQL learning repository covering database fundamentals, queries, aggregate functions, joins, subqueries, and practice problems.
+
+**Technologies:** SQL, MySQL
+
+🔗 [View Repository](https://github.com/suhani178)
 
 ---
 
@@ -100,7 +123,7 @@ A selection of projects demonstrating my learning and practical development expe
 - Data Structures and Algorithms
 - SQL and Database Management
 - Python for Data Science
-- Large Language Models and Retrieval-Augmented Generation
+- Large Language Models and Retrieval-Augmented Generation (RAG)
 - Building practical AI-powered applications
 
 ---
@@ -108,12 +131,14 @@ A selection of projects demonstrating my learning and practical development expe
 ## GitHub Statistics
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=suhani178&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=suhani178&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img src="./profile/stats.svg" width="49%" alt="GitHub Statistics"/>
+  <img src="./profile/top-langs.svg" width="49%" alt="Most Used Languages"/>
 </p>
 
 <p align="center">
-  <img width="70%" src="https://streak-stats.demolab.com?user=suhani178&theme=tokyonight&hide_border=true" alt="GitHub Contribution Streak"/>
+  <a href="https://github.com/suhani178?tab=repositories">
+    <img src="https://img.shields.io/badge/Explore%20My%20Repositories-181717?style=for-the-badge&logo=github&logoColor=white" alt="Explore Repositories"/>
+  </a>
 </p>
 
 ---
